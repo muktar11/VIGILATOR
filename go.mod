@@ -1,4 +1,4 @@
-module github.com/tsawler/vigilate
+module github.com/muktar11/Vigilator
 
 go 1.16
 
